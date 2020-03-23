@@ -1,0 +1,7 @@
+1. Verificar se os dados do cliente estão sendo exibidos corretamente.
+2. Verificar se os atalhos para as redes sociais estão funcionando corretamente, redirecionando para a rede social de acordo com o ícone do atalho.
+3. Verificar se o local apresentado está correto.
+4. Verificar se as oportunidades são exibidas corretamente.
+5. Verificar se o link para verificar todas as oportunidades está funcional.
+6. Verificar se o limite de crétido disponível é exibido corretamente (o limite disponível é composto pelo valor de limite concedido menos o valor da soma dos títulos financeiros).
+7. Verificar se o status das atividades são apresentados corretamente. As atividades previstas deve ter uma data igual ou maior que a data atual e as atividades em atrase, menor que a data atual.
